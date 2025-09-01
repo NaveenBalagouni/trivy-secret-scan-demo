@@ -1,0 +1,1 @@
+# trivy-secret-scan-demo
